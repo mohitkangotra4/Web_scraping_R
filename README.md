@@ -1,5 +1,5 @@
 # Web_scraping_R
-Using R studio to scrape data from website
+Using R language Studio performed web scraping of top 10 data/business analytics companies in India.
 # R script
 
 #data collection for to data/business analytics companies in india
